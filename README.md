@@ -25,3 +25,14 @@ ipconfig /flushdns
 ```bash
 sudo systemctl restart NetworkManager
 ```
+## 四、推荐的浏览器以及`dns`服务器
+```txt
+使用Edge浏览器
+>>[...]
+>>settings
+>>搜索DNS
+>>Use secure DNS to specify how to lookup the network address for websites[O]
+>>Choose a service provider[O]
+>>NextDNS[O]
+>>Reboot Edge
+```
